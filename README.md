@@ -5,7 +5,8 @@ This workshop provides a practical guide to using LLMs such as ChatGPT as coding
 
 It includes hands-on activities and provides tips for optimizing interactions with these novel AI models for effective coding education with a focus on the python coding language. But the principles and tips generalize to other coding languages. This workshop aims to equip attendees with the necessary skills to best integrate these tools into their individual journey learning to code.<br>
 
-![gpt](https://github.com/The-CEAS-Library/A-Practical-Guide-to-Learning-to-Code-with-ChatGPT/assets/30638279/ad7dd0f9-0d30-47b3-b18a-6128269d6695)
+![gpt](https://github.com/The-CEAS-Library/A-Practical-Guide-to-Learning-to-Code-with-ChatGPT/assets/30638279/0c0bebea-0d19-45ba-9d9b-43a23c33d00d)
+
 
 
 
