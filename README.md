@@ -5,7 +5,8 @@ This workshop provides a practical guide to using LLMs such as ChatGPT as coding
 
 It includes hands-on activities and provides tips for optimizing interactions with these novel AI models for effective coding education with a focus on the python coding language. But the principles and tips generalize to other coding languages. This workshop aims to equip attendees with the necessary skills to best integrate these tools into their individual journey learning to code.<br>
 
-![MicrosoftTeams-image (1)](https://github.com/The-CEAS-Library/A-Practical-Guide-to-Learning-to-Code-with-ChatGPT/assets/30638279/986196c3-ee6f-46f5-863a-50bfcbd13e0d)
+![gpt](https://github.com/The-CEAS-Library/A-Practical-Guide-to-Learning-to-Code-with-ChatGPT/assets/30638279/6120292c-6bc0-4a97-88ee-708a012f8a2c)
+
 
 
 **Note**: Please click **'launch binder'** button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations. <br>
